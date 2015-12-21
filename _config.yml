@@ -3,8 +3,8 @@ title: heliosapollo
 header-img: img/home-bg.jpg
 email: milansegedinac@uns.ac.rs
 description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: ""
-url: "http://yourdomain.com"
+baseurl: "http://helios-apollo.github.io/"
+url: "http://helios-apollo.github.io/"
 twitter_username: SBootstrap
 github_username:  davidtmiller
 facebook_username:  IronSummitMedia
