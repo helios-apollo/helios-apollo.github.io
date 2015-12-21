@@ -7,7 +7,7 @@ author:     "Helios Apollo"
 header-img: "img/post-bg-01.jpg"
 ---
 
-<p>Nedavno sam naišao na zanimljivo Hajdegerovo razmišljanje o znanju i učenju, u knjizi <em>Uvod u metafiziku</em>. Izdvoji bih sledeća dva pasusa:</p>
+<p>Hajdeger nije bio filozof obrazovanja. Zato sam se začudio kada sam, pre par dana naišao na jedno njegovo zanimljivo razmišljanje o znanju i učenju, u knjizi <em>Uvod u metafiziku</em>. Izdvoji bih sledeća dva pasusa:</p>
 <blockquote><p>Samo posedovati informacije, bez obzira koliko široko bilo njihovo dejstvo, ne znači znati. Čak i kada su informacije fokusirane na ono što je praktično najvažnije u obrazovanju, to nije znanje. Čak i kada su informacije ... bliske životu, posedovanje informaicja nije znanje. Onaj ko ima takve informacije i dodao im je par praktičnih trikova još uvek je u gubitku i neizbežno će naleteti na stvarnost koja je uvek različita od sitničavog razumevanja bliskog životu i bliskog stvarnosti. Zašto? Zato što on ne poseduje znanje, pošto znati znači <strong>moći učiti</strong>. </p>
 <p>Naravno, prema svakidašnjem razumevanju neko poseduje znanje ako više ništa ne mora da uči, ako je završio učenje. Ne. Zna jedino onaj ko razume da mora uvek ponovo da uči i ko je, na osnovu ovog razumevanja stigao do toga stalno <strong>može da uči</strong>. To je mnogo teže nego posedovati informacije.</p>
 <br/>(Martin Hajdeger, Uvod u metafiziku)</blockquote>
