@@ -3,7 +3,6 @@ layout:     post
 title:      "Hajdeger o obrazovanju"
 subtitle:   "Stvarnost je uvek tu, iza ćoška, da nas udari po nosu"
 date:       2015-12-21
-author:     "Helios Apollo"
 header-img: "img/post-bg-01.jpg"
 ---
 
