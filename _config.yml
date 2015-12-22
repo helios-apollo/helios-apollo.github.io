@@ -1,13 +1,11 @@
 # Site settings
 title: heliosapollo
 header-img: img/home-bg.jpg
-email: milansegedinac@uns.ac.rs
-description: "Write your site description here. It will be used as your sites meta description as well!"
+email: helios.apollo.blog@gmail.com
+description: "Tehnologija, filozofija, obrazovanje, umetnost"
 baseurl: ""
 url: "http://helios-apollo.github.io"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
+github_username:  helios-apollo
 
 # Build settings
 markdown: kramdown
