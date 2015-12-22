@@ -40,6 +40,8 @@ a img:focus {
 blockquote {
   color: #808080;
   font-style: italic;
+}
+blockquote.head-quote {
   text-align: right;
   border-left: 0;
 }
