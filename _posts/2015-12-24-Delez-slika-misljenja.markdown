@@ -2,7 +2,7 @@
 layout:     post
 title:      "Delez - slika mišljenja"
 subtitle:   "U prilog beskorisnom učenju"
-date:       2015-12-22
+date:       2015-12-24
 author:     "Helios Apollo"
 header-img: "img/post-bg-02.jpg"
 ---
